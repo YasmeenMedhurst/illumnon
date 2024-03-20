@@ -1,0 +1,15 @@
+{
+  "name": "illumnon",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YasmeenMedhurst/illumnon.git"
+  },
+  "author": "ClementShanahan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ts-paths-to-alias-core": "0.1.1"
+  },
+  "homepage": "https://github.com/YasmeenMedhurst/illumnon.git"
+}
